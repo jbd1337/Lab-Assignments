@@ -33,4 +33,5 @@ int main(){
 	number = e.add(40,40);
 	assert(mult == 10);
 	assert(number == 80);
+	cout << "All tests passed\n";
 }
